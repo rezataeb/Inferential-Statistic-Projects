@@ -1,5 +1,7 @@
 # Inferential-Statistic-Projects
 
+## First project : "Human Body Temperature"
+
 This piece is a short analysis on Human Body Temperature. 
 
 Golas: 
