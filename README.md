@@ -22,3 +22,14 @@ Goals:
 - The real difference between white and black sounding names on the chance of getting called 
 - Hypothesis testing on the efffect of racial feature on getting called ratio
 - Some initial thoughts on future research 
+
+
+## Third Project : "Reduce Hospital Readmissions Using EDA" 
+
+This project is a short analysis on the readmission ratio in hospitals. 
+
+Goals: 
+
+- Studying the possible ralationship between number of discharges and excess readmission ratio in hospitals.
+- Hypothesis testing on the real difference between number of charges and excess readmission ratio. 
+- Critique on provided sample analysis
